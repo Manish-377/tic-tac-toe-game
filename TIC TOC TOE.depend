@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564989818 source:d:\#programming\c++\programs\tic toc toe\main.c
+	<stdio.h>
+	<stdlib.h>
+
